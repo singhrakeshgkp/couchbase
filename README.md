@@ -1,6 +1,6 @@
 # couchbase Table of contents
 - [Basic](#basic)
-  - [Cap Theorem]
+  - [CAP Theorem](#Cap-Theorem)
   - [Use Cases](#use-cases)
   - [Popular NOSQL DBs](#popular-nosql-dbs)
  
